@@ -100,10 +100,22 @@ From 2017, `Quynh Anh Shyn`'s performance is not as good as before. Her views ar
 
 `Trinh Pham` no longer seems to be able to create as many videos that attract viewers as before. The period from 2020 to now has witnessed a significant decrease in the channel's views.
 
->>**TOP N (5, 10, 15) HIGHEST VIEW VIDEOS OF EACH CHANNEL**
+**The chart below is answering for "What kind of content did audience want to watch most?"**
 
-The chart below is answering for "What kind of content did audience want to watch most?"
+>>**TOP N (5, 10, 15) HIGHEST COMMMENT + LIKE VIDEOS OF EACH CHANNEL**
+
+
 ![image](https://user-images.githubusercontent.com/113614347/225686412-d01bba49-367f-4da5-823d-a9073dd1e2c0.png)
 ![image](https://user-images.githubusercontent.com/113614347/225686541-1bc23c42-9caf-4624-9579-5ca3e1adddfc.png)
 ![image](https://user-images.githubusercontent.com/113614347/225686604-54f4cfa0-4e86-4da4-bb36-64dcc9ff97aa.png)
+
+>>**TOP N (5,10, 15) HIGHEST VIEW VIDEOS OF EACH CHANNEL**
+
+![image](https://user-images.githubusercontent.com/113614347/225687606-7c38e45c-705c-427f-9c87-bb588f8d7b47.png)
+![image](https://user-images.githubusercontent.com/113614347/225687746-c283beb3-d506-460d-ab89-0762cc9ab0fa.png)
+![image](https://user-images.githubusercontent.com/113614347/225687819-8d9e5e64-32e3-4f9d-97ce-a704b2c3d2aa.png)
+
+> **FOR FUTURE ANALYSIS - CONCLUSION**
+
+Currently, this report is only done at the stage of general descriptive analysis of channels. I suggest you can do some data mining techniques such as extracting topics from video content, analyzing the sentiment of comments in each video. Besides, the analysis also has the limitation that it only collects data for big and old youtubers, those who are famous recently have not. Readers can enrich these limitations to enrich the analysis.
 
