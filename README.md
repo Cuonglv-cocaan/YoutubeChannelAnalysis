@@ -18,7 +18,7 @@ The analysis context comes from the idea of how beauty topics are on the YouTube
 
 `Step 2` Get ChannelID of channels that I want to analyze.
 
-In this Project I chose some famous beauty blogger like: `#Chang Makeup`
+In this Project I chose some famous beauty blogger like: `#Chang Makeup`, `#Chloe Nguyen`, `#Happy Skin VN`, `#Linh Truong`, `#Mai Van Trang`, `#Quynh Anh Shyn`, `#Trinh Pham`
 
 `Step 3` Scrapping and Preprocessing raw data.
 
