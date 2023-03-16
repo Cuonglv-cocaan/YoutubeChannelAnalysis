@@ -55,7 +55,7 @@ Meanwhile, the rest also produced many million-view videos but they didn't get a
 >> **View Count and Top 10 View Count by Year**
 
 This metric answer for the question: "How have the views on each channel changed over the years?"
-We'll go in to details for each Channel.
+We'll go into details for each Channel.
 
 ***Chang Makeup***
 ![image](https://user-images.githubusercontent.com/113614347/225673137-015e7213-6f37-44c2-9449-12ffd8fad869.png)
@@ -66,10 +66,13 @@ She had the highest number of views in 2016 then decreased in 2018. 2019 had a s
 
 ![image](https://user-images.githubusercontent.com/113614347/225673378-14350314-2e7a-4a11-a84c-ead2f3f963b9.png)
 
+Chloe Nguyen is also a famous beauty blogger, the number of views on the channel remains stable. There was a decline in interaction in two periods, 2017-2019 and 2021-present.
+
 ***Happy Skin***
 
-![image](https://user-images.githubusercontent.com/113614347/225673856-d1bf9343-4978-4bea-a3dc-b74f698e59e7.png)
+![image](https://user-images.githubusercontent.com/113614347/225680020-2c559d2d-62ad-4958-a2b2-ce8efa959c93.png)
 
+Happy skin has a view like a pyramid. The highest viewing peak in 2018 with a total of 31.4M views. However, the closer to the two sides, the more the decline in views. We can dig deeper into why there's been an interesting decline like this by using data mining techniques.
 
 
 ***Linh Truong***
