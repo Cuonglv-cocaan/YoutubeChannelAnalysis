@@ -106,8 +106,7 @@ The chart below is answering for "What kind of content did audience want to watc
 ![image](https://user-images.githubusercontent.com/113614347/225686412-d01bba49-367f-4da5-823d-a9073dd1e2c0.png)
 ![image](https://user-images.githubusercontent.com/113614347/225686541-1bc23c42-9caf-4624-9579-5ca3e1adddfc.png)
 ![image](https://user-images.githubusercontent.com/113614347/225686604-54f4cfa0-4e86-4da4-bb36-64dcc9ff97aa.png)
-**![image](https://user-images.githubusercontent.com/113614347/225686607-df594fb8-d7eb-4791-a923-01487ffa5f87.png)
+![image](https://user-images.githubusercontent.com/113614347/225686607-df594fb8-d7eb-4791-a923-01487ffa5f87.png)
 
 
-**
 
