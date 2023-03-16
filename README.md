@@ -52,4 +52,4 @@ Meanwhile, the rest also produced many million-view videos but they didn't get a
 
 `Chang Makeup` continues to be in first position in the view per minute. Next, `Quynh Anh Shyn`’s Views per Minute rank the second despite their video not having as many views as `Chang Makeup` or the others.
 
-
+>> **View Count and Top 10 View Count by Year**
