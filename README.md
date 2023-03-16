@@ -53,3 +53,33 @@ Meanwhile, the rest also produced many million-view videos but they didn't get a
 `Chang Makeup` continues to be in first position in the view per minute. Next, `Quynh Anh Shyn`’s Views per Minute rank the second despite their video not having as many views as `Chang Makeup` or the others.
 
 >> **View Count and Top 10 View Count by Year**
+
+This metric answer for the question: "How have the views on each channel changed over the years?"
+We'll go in to details for each Channel.
+
+***Chang Makeup***
+![image](https://user-images.githubusercontent.com/113614347/225673137-015e7213-6f37-44c2-9449-12ffd8fad869.png)
+
+
+***Chloe Nguyen***
+
+![image](https://user-images.githubusercontent.com/113614347/225673378-14350314-2e7a-4a11-a84c-ead2f3f963b9.png)
+
+***Happy Skin***
+![image](https://user-images.githubusercontent.com/113614347/225673856-d1bf9343-4978-4bea-a3dc-b74f698e59e7.png)
+
+
+
+***Linh Truong***
+![image](https://user-images.githubusercontent.com/113614347/225673951-a5ce4abd-d8f8-476c-a4da-bbcb8320910e.png)
+
+***Mai Van Trang***
+![image](https://user-images.githubusercontent.com/113614347/225674111-a7d92b44-2175-4520-becb-2589a2dcf293.png)
+
+
+***Quynh Anh Shyn***
+![image](https://user-images.githubusercontent.com/113614347/225674208-88c92247-8243-4e8a-b4dd-ccd843242277.png)
+
+
+***Trinh Pham***
+![image](https://user-images.githubusercontent.com/113614347/225674331-7e322247-ae91-413a-a069-2ee1031c869e.png)
