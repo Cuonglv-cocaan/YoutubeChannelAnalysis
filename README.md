@@ -18,6 +18,8 @@ The analysis context comes from the idea of how beauty topics are on the YouTube
 
 `Step 2` Get ChannelID of channels that I want to analyze.
 
+In this Project I chose some famous beauty blogger like: `#Chang Makeup`
+
 `Step 3` Scrapping and Preprocessing raw data.
 
 `Step 4` Extract data to CSV file.
