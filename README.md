@@ -90,9 +90,10 @@ Similarly, `Mai Van Trang`'s channel has the same trend as `Linh Truong`'s chann
 
 ***Quynh Anh Shyn***
 
-![image](https://user-images.githubusercontent.com/113614347/225674208-88c92247-8243-4e8a-b4dd-ccd843242277.png)
+![image](https://user-images.githubusercontent.com/113614347/225683827-68aeaf7a-4b46-4f59-90b4-07c67ab02c8a.png)
 
 
 ***Trinh Pham***
 
-![image](https://user-images.githubusercontent.com/113614347/225674331-7e322247-ae91-413a-a069-2ee1031c869e.png)
+![image](https://user-images.githubusercontent.com/113614347/225683925-ac421651-c838-4372-89c0-73c13e98d1df.png)
+
