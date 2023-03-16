@@ -92,8 +92,11 @@ Similarly, `Mai Van Trang`'s channel has the same trend as `Linh Truong`'s chann
 
 ![image](https://user-images.githubusercontent.com/113614347/225683827-68aeaf7a-4b46-4f59-90b4-07c67ab02c8a.png)
 
+From 2017, `Quynh Anh Shyn`'s performance is not as good as before. Her views are decreasing, maybe the reason is because she changed direction from beauty blogger to fashion industry.
 
 ***Trinh Pham***
 
 ![image](https://user-images.githubusercontent.com/113614347/225683925-ac421651-c838-4372-89c0-73c13e98d1df.png)
+
+Trinh Pham no longer seems to be able to create as many videos that attract viewers as before. The period from 2020 to now has witnessed a significant decrease in the channel's views.
 
