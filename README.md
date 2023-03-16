@@ -40,4 +40,8 @@ Another Slicer is TOP N, the purpose is to filter TOP (5, 10, 15) some feature i
 
 ![image](https://user-images.githubusercontent.com/113614347/225662529-a27b0c2d-53a8-45dc-9fb0-985b9ff352e6.png)
 
+**`View per video`**
+
+![image](https://user-images.githubusercontent.com/113614347/225663451-2c2a09d7-2d93-4ac0-92d8-a6d551d716fb.png)
+
 
