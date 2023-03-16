@@ -66,23 +66,27 @@ She had the highest number of views in 2016 then decreased in 2018. 2019 had a s
 
 ![image](https://user-images.githubusercontent.com/113614347/225673378-14350314-2e7a-4a11-a84c-ead2f3f963b9.png)
 
-Chloe Nguyen is also a famous beauty blogger, the number of views on the channel remains stable. There was a decline in interaction in two periods, 2017-2019 and 2021-present.
+`Chloe Nguyen` is also a famous beauty blogger, the number of views on the channel remains stable. There was a decline in interaction in two periods, 2017-2019 and 2021-present.
 
 ***Happy Skin***
 
 ![image](https://user-images.githubusercontent.com/113614347/225680020-2c559d2d-62ad-4958-a2b2-ce8efa959c93.png)
 
-Happy skin has a view like a pyramid. The highest viewing peak in 2018 with a total of 31.4M views. However, the closer to the two sides, the more the decline in views. We can dig deeper into why there's been an interesting decline like this by using data mining techniques.
+`Happy skin` has a view like a pyramid. The highest viewing peak in 2018 with a total of 31.4M views. However, the closer to the two sides, the more the decline in views. We can dig deeper into why there's been an interesting decline like this by using data mining techniques.
 
 
 ***Linh Truong***
 
-![image](https://user-images.githubusercontent.com/113614347/225673951-a5ce4abd-d8f8-476c-a4da-bbcb8320910e.png)
+![image](https://user-images.githubusercontent.com/113614347/225682193-f5f6297e-bb35-4fb4-b0ed-daf598ec4f41.png)
+
+`Linh Truong` does not have as many views as other channels, but maintains a stable performance. However, 2022 saw a significant decline in views. If she wants to grow, she needs to find out what video content causes to break through again.
+
 
 ***Mai Van Trang***
 
-![image](https://user-images.githubusercontent.com/113614347/225674111-a7d92b44-2175-4520-becb-2589a2dcf293.png)
+![image](https://user-images.githubusercontent.com/113614347/225683081-2fdad390-8067-41d0-9611-99a3e284cb33.png)
 
+Similarly, `Mai Van Trang`'s channel has the same trend as `Linh Truong`'s channel
 
 ***Quynh Anh Shyn***
 
