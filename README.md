@@ -44,4 +44,7 @@ Another Slicer is TOP N, the purpose is to filter TOP (5, 10, 15) some feature i
 
 ![image](https://user-images.githubusercontent.com/113614347/225663451-2c2a09d7-2d93-4ac0-92d8-a6d551d716fb.png)
 
+Firstly, let me tell you the current status of our beauty bloggers.
+Chang make has produced some interesting videos. This helped them to achieve the highest average views per video.
+Meanwhile, the rest also produced many million-view videos but they didn't get audience attention, the average video per video declined.
 
