@@ -48,3 +48,6 @@ Firstly, let me tell you the current status of our beauty bloggers.
 `Chang makeup` has produced some interesting videos. This helped them to achieve the highest average views per video.
 Meanwhile, the rest also produced many million-view videos but they didn't get audience attention, the average video per video declined.
 
+>>**Views per Minute**
+
+`Quynh Anh Shyn`’s Views per Minute rank the second despite their video not having as many views as `Chang Makeup` or the others.
