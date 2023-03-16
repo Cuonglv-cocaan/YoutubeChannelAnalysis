@@ -12,5 +12,18 @@
 
 The analysis context comes from the idea of how beauty topics are on the YouTube video platform. Definition of the content of which products are trending. Starting from that, I conducted a project to analyze some famous beauty bloggers in Vietnam.
 
->SCRAPPING DATA
+>**SCRAPPING DATA**
+
+`Step 1` Setup environment and API.
+
+`Step 2` Get ChannelID of channels that I want to analyze.
+
+`Step 3` Scrapping and Preprocessing raw data.
+
+`Step 4` Extract data to CSV file.
+
+For more detail about the Python code I used to scrapping. Please contact me via: lvcuong2801@gmail.com
+
+>**LOAD CSV file to PowerBI**
+
 
